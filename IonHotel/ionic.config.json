@@ -1,7 +1,0 @@
-{
-  "name": "IonTab3",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
